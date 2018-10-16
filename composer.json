@@ -1,10 +1,17 @@
 {
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es5",
-    "sourceMap": true
-  },
-  "exclude": [
-    "node_modules"
-  ]
+  "name": "cfun/first_demo",
+  "description": "my first demo",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cfun",
+      "email": "1606548133@qq.com"
+    }
+  ],
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
 }
