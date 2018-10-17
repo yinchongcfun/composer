@@ -8,6 +8,13 @@
       "email": "1606548133@qq.com"
     }
   ],
+
+  "autoload": {
+    "psr-0": {
+      "cfun\\first_demo\\": "./src"
+    }
+  },
+
   "repositories": {
     "packagist": {
       "type": "composer",
